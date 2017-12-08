@@ -1,4 +1,7 @@
 # Starter Web Repo
+asd
+asdas
+dupa
 
 This repository is for showing how Git and GitHub work
 
