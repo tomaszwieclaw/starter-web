@@ -1,0 +1,4 @@
+#GOWNO
+##DUPA
+##HEHE
+##ITSZIT
