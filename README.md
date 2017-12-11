@@ -3,10 +3,14 @@ asd
 asdas
 dupa
 
+TW has been here.
+
 This repository is for showing how Git and GitHub work
 
 andsd
 sad
+
+and here.
 
 andsdasd
 ## Purpose
