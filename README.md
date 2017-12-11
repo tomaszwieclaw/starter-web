@@ -3,6 +3,8 @@ asd
 asdas
 dupa
 
+nowa linijka
+
 TW has been here.
 
 my-feature
@@ -33,4 +35,4 @@ ad
 asdasdas
 demosasd
 
-2017 GIT.Copyright
+2017 GIT.Copyright All rights reserved.
